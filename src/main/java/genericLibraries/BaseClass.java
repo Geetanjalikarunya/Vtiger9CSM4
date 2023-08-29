@@ -1,5 +1,5 @@
 package genericLibraries;
-
+//this is used create all the generic actions
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.annotations.AfterClass;
